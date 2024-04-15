@@ -1,0 +1,10 @@
+location_name,latitude,longitude
+Colombo Fort Railway Station,6.9344,79.8437
+Galle Face Green,6.9217,79.8465
+Gangaramaya Temple,6.9155,79.8528
+Independence Memorial Hall,6.9025,79.8650
+Viharamahadevi Park,6.9118,79.8613
+National Museum of Colombo,6.9126,79.8573
+Old Parliament Building,6.9349,79.8421
+Pettah Market,6.9372,79.8674
+Beira Lake,6.9162,79.8543
